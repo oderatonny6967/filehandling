@@ -1,0 +1,8 @@
+This is the first line of text.
+Here's a line with both a string and a number: 42
+The last line before appending more.
+
+Here are some lines appended to the existing content:
+Line 1 after appending.
+Line 2 after appending.
+Line 3 after appending.
